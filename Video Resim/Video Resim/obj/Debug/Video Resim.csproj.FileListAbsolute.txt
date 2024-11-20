@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\bin\Debug\Video Resim.exe.config
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\bin\Debug\Video Resim.exe
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\bin\Debug\Video Resim.pdb
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\obj\Debug\Video Resim.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\obj\Debug\Video_Resim.Form1.resources
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\obj\Debug\Video_Resim.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\obj\Debug\Video Resim.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\obj\Debug\Video Resim.exe
+C:\Users\user\Desktop\10-M\Video Resim\Video Resim\obj\Debug\Video Resim.pdb
